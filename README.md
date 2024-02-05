@@ -1,3 +1,3 @@
 # Wellness-Forever
 
-Clone Project
+Internship Project
